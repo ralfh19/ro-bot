@@ -12,7 +12,7 @@
 
 # RO-BOT
 ## Informasi
-> RO-BOT adalah recode an dari muzza-bot)
+> RO-BOT adalah recode an dari muzza-bot:)
 >
 >
 
@@ -37,10 +37,15 @@ cd ro-bot
 npm start
 ```
 ## For Termux
-```pkg install nodejs -y
+```
+pkg install nodejs -y
+pkg install bash
+pkg install mc
 pkg install ffmpeg
 pkg install imagemagick
+git clone https://github.com/ralfh19/ro-bot
 cd ro-bot
+mc (hapus file session)
 npm start
 ```
 >
@@ -54,7 +59,7 @@ npm start
 ```
 
 ## Edit file
-- edit owner dll disini [this section](https://github.com/ralfh19/ro-bot/blob/main/Farid.js/#L52)
+- edit owner dll [disini](https://github.com/ralfh19/ro-bot/blob/main/Farid.js/#L52)
 
 
 ## Installing the FFmpeg for Windows
