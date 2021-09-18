@@ -51,7 +51,7 @@ const Math_js = require('mathjs')
 
 const apixteam = 'AbilGanss'
 const leysapi = 'dappakntlll'
-const lolkey = '6cb9324ffa2d77f01b2ac34c'
+const lolkey = '0b0ffba94f2b803b88721e4f'
 
 hargalimit = "100"
 limitawal = "20"
@@ -1704,7 +1704,7 @@ case 'chiisaihentai':
 if (!isRegistered) return reply(ind.noregis())
 if (isBanned) return reply(ind.ban())	 
 reply(waitbang)
-                    await getBuffer(`https://api.lolhuman.xyz/api/random/nsfw/${command}?apikey=IkyAds`).then((gambar) => {
+                    await getBuffer(`https://api.lolhuman.xyz/api/random/nsfw/${command}?apikey=0b0ffba94f2b803b88721e4f`).then((gambar) => {
                         client.sendMessage(from, gambar, image, { quoted: mek })
                     })
                     break
@@ -1730,7 +1730,6 @@ case 'solog':
 case 'feetg':
 case 'lewdk':
 case 'pussy':
-case 'femdom':
 case 'cuddle':
 case 'eroyuri':
 case 'cum_jpg':
