@@ -19,7 +19,7 @@
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
 * Info Lebih Lanjut, Chat [owner-ronove](https://wa.me/6282182623238)
-* Kamu bisa testing fitur Chika-Bot [disini](https://wa.me/62821826232389?text=.menu)
+* Kamu bisa testing fitur RO-BOT [disini](https://wa.me/62821826232389?text=.menu)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
