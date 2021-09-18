@@ -37,11 +37,12 @@ cd ro-bot
 npm start
 ```
 ## For Termux
-pkg install nodejs -y
+```pkg install nodejs -y
 pkg install ffmpeg
 pkg install imagemagick
 cd ro-bot
 npm start
+```
 >
 
 ## For VPS
